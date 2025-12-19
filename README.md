@@ -119,5 +119,5 @@ Open .env file and update:
       http://127.0.0.1:8000/tasks
 
 
-🎉 Your application is now running!
+Congrats Your application is now running!:))))
 
