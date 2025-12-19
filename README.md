@@ -25,6 +25,9 @@ This project is designed as a single-user system and focuses on demonstrating co
 * Controller handles business logic and validation
 * Model (Task) interacts with MySQL database
 * Blade templates display data and forms to the user
+<img width="1536" height="1024" alt="ChatGPT Image Dec 19, 2025, 11_01_53 PM" src="https://github.com/user-attachments/assets/e9e843e3-07c5-4fd2-9e8f-7f9e865b02c1" />
+
+  
 
 🧩 Core Features
 
