@@ -36,7 +36,7 @@ This project is designed as a single-user system and focuses on demonstrating co
 * Visual indication for completed tasks
 generate
 
-🚀 Setup & Installation (BEGINNER FRIENDLY)
+🚀 Setup & Installation 
 
 Follow these steps in order.
 
