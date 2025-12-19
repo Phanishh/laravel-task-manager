@@ -124,3 +124,10 @@ Open .env file and update:
 Congrats Your application is now running!!
 :))))
 
+**📸 Application Preview:
+**
+Below is a preview of the Task Management System showing daily-life tasks
+with different priorities and completion status.
+
+<img width="1913" height="1078" alt="Screenshot 2025-12-19 232928" src="https://github.com/user-attachments/assets/f5fc63fa-1bca-4e62-be59-5b4a170c4615" />
+
