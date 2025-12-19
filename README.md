@@ -5,12 +5,13 @@ The Task Management System is a simple Laravel-based web application that allows
 This project is designed as a single-user system and focuses on demonstrating core Laravel concepts such as MVC architecture, routing, controllers, Blade templates, and database integration using MySQL.
 
 🎯 Objectives:
-* Build a basic CRUD application using Laravel
+* To Build a basic CRUD application using Laravel
 * Understand Laravel MVC flow
 * Work with MySQL database using Eloquent ORM
 * Implement form validation and clean routing
 * Create a simple and user-friendly UI
 =======
+
 🛠️ Technology Stack
 * Backend: PHP 8+, Laravel
 * Frontend: Blade Templates (HTML + CSS)
