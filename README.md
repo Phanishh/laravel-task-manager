@@ -34,59 +34,7 @@ This project is designed as a single-user system and focuses on demonstrating co
 * Mark task as completed (✔ tick shown)
 * Delete a task
 * Visual indication for completed tasks
-
-🚀 Setup & Installation
-1️⃣ Clone Repository
-    * git clone <repository-url>
-    * cd task-manager
-
-2️⃣ Install Dependencies
-    * composer install
-
-3️⃣ Configure Environment
-
-** Update .env file:
-1.DB_CONNECTION=mysql
-2.DB_DATABASE=task_manager
-3.DB_USERNAME=root
-4.DB_PASSWORD=
-
-4️⃣ Generate Application Key
-    * php artisan key:generate
-
-5️⃣ Run Migrations
-`   * php artisan migrate
-
-6️⃣ Start Application
-    * php artisan serve
-
-
-** Open browser:
-     * http://127.0.0.1:8000/tasks
-
-🧠 Key Concepts Demonstrated
-
-* Laravel MVC architecture
-* RESTful routing using resource routes
-* Blade templating
-* Eloquent ORM
-* Form handling and validation
-* Basic frontend styling
-=======
-->User accesses the application through /tasks
-->Routes in web.php map requests to TaskController
-->Controller handles business logic and validation
-->Model (Task) interacts with MySQL database
-->Blade templates display data and forms to the user
-
-🧩 Core Features
-
-->View all tasks
-->Add a new task
-->Edit an existing task
-->Mark task as completed (✔ tick shown)
-->Delete a task
-->Visual indication for completed tasks
+generate
 
 🚀 Setup & Installation (BEGINNER FRIENDLY)
 
