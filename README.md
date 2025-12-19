@@ -98,6 +98,7 @@ Open .env file and update:
 * DB_DATABASE=task_manager
 * DB_USERNAME=root
 * DB_PASSWORD=
+  
 👉 Make sure the database task_manager exists in MySQL.
 
 ✅ Step 5: Generate Application Key
