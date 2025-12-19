@@ -102,15 +102,15 @@ Open .env file and update:
 👉 Make sure the database task_manager exists in MySQL.
 
 ✅ Step 5: Generate Application Key
-* php artisan key:generate
+* Run this : **php artisan key:generate**
 * This is mandatory for Laravel to run.
 
 ✅ Step 6: Run Database Migrations
-* php artisan migrate
+* Run this : **php artisan migrate**
 * This will create the tasks table automatically.
 
 ✅ Step 7: Start the Application
-* php artisan serve
+* **php artisan serve**
   * Open browser and visit:
 
       http://127.0.0.1:8000/tasks
