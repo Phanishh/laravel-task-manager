@@ -45,6 +45,7 @@ generate
 Follow these steps in order.
 
 ✅ Step 1: Install Required Software
+
 🔹 1. Install PHP (Required)
 
 **Download PHP from:**
